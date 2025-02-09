@@ -1,6 +1,7 @@
 # LoboTex
 an online LaTeX editing platform
 
+![launchpad](https://github.com/kmranrg/LoboTex/blob/main/launchpad.png)
 
 ## Terms & Conditions
 
