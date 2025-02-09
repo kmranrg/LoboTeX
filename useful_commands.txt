@@ -1,3 +1,6 @@
 1) Check all Docker Containers: docker ps -a
 2) Go inside the Docker Container: docker exec -it sharelatex bash
 3) Finding the filename: file / -name "overleaf-o.svg"
+4) To create the config files: bin/init
+5) To start the localhost services: bin/up
+6) To stop the localhost services, simple press Ctrl+C in the terminal.
