@@ -1,11 +1,11 @@
-# LoboTex
+# LoboTeX
 an online LaTeX editing platform
 
 ![launchpad](https://github.com/kmranrg/LoboTex/blob/main/launchpad.png)
 
 ## Documentation
 
-Welcome to the documentation for the LoboTex Overleaf Toolkit.
+Welcome to the documentation for the LoboTeX Overleaf Toolkit.
 
 ### Getting Started
 
