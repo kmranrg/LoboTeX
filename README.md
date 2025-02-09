@@ -3,6 +3,19 @@ an online LaTeX editing platform
 
 ![launchpad](https://github.com/kmranrg/LoboTex/blob/main/launchpad.png)
 
+## Documentation
+
+Welcome to the documentation for the LoboTex Overleaf Toolkit.
+
+### Getting Started
+
+- [Overview](https://github.com/kmranrg/LoboTex/blob/main/doc/overview.md)
+- [Quick Start Guide](https://github.com/kmranrg/LoboTex/blob/main/doc/quick-start-guide.md)
+- [Dependencies](https://github.com/kmranrg/LoboTex/blob/main/doc/dependencies.md)
+- [docker-compose.yml to Toolkit migration](https://github.com/kmranrg/LoboTex/blob/main/doc/docker-compose-to-toolkit-migration.md)
+
+[See More](https://github.com/kmranrg/LoboTex/blob/main/doc/README.md)
+
 ## Terms & Conditions
 
 This program is free software: you can redistribute it and/or modify  
