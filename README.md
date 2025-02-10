@@ -9,12 +9,12 @@ Welcome to the documentation for the LoboTeX Overleaf Toolkit.
 
 ### Getting Started
 
-- [Overview](https://github.com/kmranrg/LoboTex/blob/main/doc/overview.md)
-- [Quick Start Guide](https://github.com/kmranrg/LoboTex/blob/main/doc/quick-start-guide.md)
-- [Dependencies](https://github.com/kmranrg/LoboTex/blob/main/doc/dependencies.md)
-- [docker-compose.yml to Toolkit migration](https://github.com/kmranrg/LoboTex/blob/main/doc/docker-compose-to-toolkit-migration.md)
+- [Overview](https://github.com/kmranrg/LoboTeX/blob/main/doc/overview.md)
+- [Quick Start Guide](https://github.com/kmranrg/LoboTeX/blob/main/doc/quick-start-guide.md)
+- [Dependencies](https://github.com/kmranrg/LoboTeX/blob/main/doc/dependencies.md)
+- [docker-compose.yml to Toolkit migration](https://github.com/kmranrg/LoboTeX/blob/main/doc/docker-compose-to-toolkit-migration.md)
 
-[See More](https://github.com/kmranrg/LoboTex/blob/main/doc/README.md)
+[See More](https://github.com/kmranrg/LoboTeX/blob/main/doc/README.md)
 
 ## Terms & Conditions
 
@@ -30,9 +30,9 @@ This version of the software has been modified from its original version, Overle
 Modification Date: February 8, 2025
 
 ### Source Code Access
-LoboTex is deployed as a network service for the University of New Mexico. According to the GNU Affero General Public License, the complete source code for LoboTex, including all modifications, is available at:
+LoboTeX is deployed as a network service for the University of New Mexico. According to the GNU Affero General Public License, the complete source code for LoboTex, including all modifications, is available at:
 
-[https://github.com/kmranrg/LoboTex](https://github.com/kmranrg/LoboTex)
+[https://github.com/kmranrg/LoboTex](https://github.com/kmranrg/LoboTeX)
 
 ### Contact Information
 **Kumar Anurag**  
