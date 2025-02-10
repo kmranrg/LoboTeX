@@ -4,4 +4,4 @@
 4) To create the config files: bin/init
 5) To start the localhost services: bin/up
 6) To stop the localhost services, simple press Ctrl+C in the terminal.
-7) For XNU Kernel: go to lib/shared-functions.sh --> find read_configuration() function and replace with --> ` sed -r "s/^$name=['\"]?(.*)['\"]?$/\1/" `
+7) For XNU Kernel: go to lib/shared-functions.sh --> find read_configuration() function and replace the `sed` with --> ` sed -r "s/^$name=['\"]?(.*)['\"]?$/\1/" `
