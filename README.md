@@ -32,7 +32,7 @@ Modification Date: February 8, 2025
 ### Source Code Access
 LoboTeX is deployed as a network service for the University of New Mexico. According to the GNU Affero General Public License, the complete source code for LoboTex, including all modifications, is available at:
 
-[https://github.com/kmranrg/LoboTex](https://github.com/kmranrg/LoboTeX)
+[https://github.com/kmranrg/LoboTeX](https://github.com/kmranrg/LoboTeX)
 
 ### Contact Information
 **Kumar Anurag**  
