@@ -1,0 +1,27 @@
+Rc files read:
+  /usr/local/share/latexmk/LatexMk
+Latexmk: This is Latexmk, John Collins, 7 Apr. 2024. Version 4.85.
+Latexmk: Changing directory to '/var/lib/overleaf/data/compiles/67a8349fc7fda8d9d1e0bf47-67a7c5871f005bc789a39677/'
+Force *latex to be remade.
+Latexmk: applying rule 'pdflatex'...
+Rule 'pdflatex':  Reasons for rerun
+Category 'other':
+  Rerun of 'pdflatex' forced or previously required:
+    Reason or flag: 'go_mode=3'
+
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=batchmode -recorder --jobname="output"  "main.tex"'
+------------
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+Latexmk: Getting log file 'output.log'
+Latexmk: Examining 'output.fls'
+Latexmk: Examining 'output.log'
+Latexmk: Log file says output to 'output.pdf'
+Latexmk: All targets (output.pdf) are up-to-date
+Latexmk: Undoing directory change
+

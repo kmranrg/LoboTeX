@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage{graphicx}
+
+\title{Seminar Report: Turning Word Problems You Can’t Solve into Math Problems You Can: Formulating Robotics Problems as Tractable Constrained Optimizations}
+\author{Kumar Anurag}
+\date{February 07, 2025}
+
+\begin{document}
+
+\maketitle
+
+\section{Presentation Summary}
+I attended a seminar titled \textit{Turning Word Problems You Can’t Solve into Math Problems You Can: Formulating Robotics Problems as Tractable Constrained Optimizations}, presented by Geordan Gutow. The seminar explored the translation of complex engineering problems into mathematical formulations, focusing particularly on constrained optimization techniques used in robotics.
+
+The presentation began by emphasizing the role of engineers in converting real-world problems described in words into mathematical models. These models often take the form of \textbf{constrained optimization problems}, where the goal is to maximize or minimize a particular objective while adhering to design constraints.
+
+Several robotics problems were discussed, demonstrating how they can be reformulated as constrained optimization problems. For instance, the speaker explained how to \textbf{find the distance from a point to the surface of a robotic arm link}, using triangle meshes to represent the link surface. Techniques like \textbf{pruning triangles} and optimizing voxel intersections were introduced to streamline computations.
+
+The seminar covered \textbf{non-contact inspection} techniques for identifying non-visible failures in mechanisms, followed by steps to dock and manipulate the mechanism for diagnostics. Another key topic was the \textbf{integration of functions} that can only be evaluated pointwise, which was reformulated into selecting nodes and weights to create efficient integration schemes. 
+
+Optimization methods like \textbf{Mixed-Integer Linear Programming (MILP)} and \textbf{Second-Order Cone Programming (SOCP)} were highlighted for their practical efficiency despite theoretical complexity. The seminar demonstrated how \textbf{convex relaxations} can transform otherwise intractable problems into solvable forms.
+
+Applications in \textbf{satellite docking} were explored, focusing on planning safe, low-thrust approach trajectories. The seminar detailed the transformation of non-convex docking problems into convex forms, allowing for reliable optimization.
+
+The presentation also covered \textbf{multi-agent pathfinding} and \textbf{abstract action planning}, where problems like robotic assembly of modular structures were formulated as graph problems. Concepts like \textbf{Action Dependency Graphs (ADG)} and \textbf{Conflict-Based Search (CBS)} were employed to coordinate multi-robot systems efficiently.
+
+The seminar concluded with discussions on \textbf{0-g assembly} and \textbf{Moving Target Traveling Salesman Problems (TSP)}, showcasing methods for optimizing interception sequences and paths using techniques like \textbf{Hybridization over Parallel Generalized TSPs (HPG)}.
+
+\section{What I Learned}
+Attending this seminar provided me with a deeper understanding of how \textbf{constrained optimization} techniques can be applied to solve complex robotics problems. I learned that many seemingly distinct problems can be reformulated into a common mathematical framework, making them more tractable.
+
+One of the key insights I gained was the practical application of \textbf{Mixed-Integer Linear Programming (MILP)} and \textbf{Second-Order Cone Programming (SOCP)}. Despite their theoretical challenges, these methods can be efficiently solved in practice using techniques like \textbf{branch-and-cut} and \textbf{sequential convex programming}. This understanding will be valuable for addressing real-world engineering problems in my future research.
+
+I also learned about the importance of \textbf{convex relaxation} in simplifying non-convex problems, such as trajectory planning for satellite docking. By transforming these problems into convex forms, it becomes possible to find reliable solutions while ensuring safety constraints are met.
+
+The seminar introduced me to novel concepts in \textbf{multi-agent systems} and \textbf{abstract action planning}. I now appreciate how \textbf{Action Dependency Graphs (ADG)} and \textbf{Conflict-Based Search (CBS)} can be used to coordinate complex tasks involving multiple robots, such as the assembly of modular structures.
+
+Furthermore, the discussion on \textbf{Moving Target Traveling Salesman Problems (TSP)} and techniques like \textbf{Hybridization over Parallel Generalized TSPs (HPG)} broadened my perspective on optimization in dynamic environments. These methods can significantly enhance the efficiency of robotic operations, especially in scenarios involving moving targets and obstacles.
+
+Overall, this seminar enriched my knowledge of formulating and solving robotics problems using advanced optimization techniques. The insights I gained will undoubtedly influence my approach to research and problem-solving in robotics and engineering.
+
+\end{document}
